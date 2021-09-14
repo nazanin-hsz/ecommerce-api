@@ -1,2 +1,7 @@
-# ecommerce-api
-A custom API connecting to Firebase Database.
+# rest-api
+This is Node Rest API with Express.
+
+### Commands
+Run the server `node index.js`
+
+
