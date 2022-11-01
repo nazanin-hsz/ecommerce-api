@@ -1,4 +1,4 @@
-# rest-api
+# REST-API
 This is Node Rest API with Express.
 
 ### Commands
