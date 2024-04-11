@@ -1,18 +1,18 @@
 [
     {
         "id": 1,
-        "title": "shirt"
+        "title": "Shirt"
     },
     {
         "id": 2,
-        "title": "shoes"
+        "title": "Shoes"
     },
     {
         "id": 3,
-        "title": "jean"
+        "title": "Jean"
     },
     {
         "id": 4,
-        "title": "skirt"
+        "title": "Skirt"
     }
 ]
